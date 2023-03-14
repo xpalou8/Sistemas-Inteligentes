@@ -1,0 +1,2 @@
+Reina - src/Imagenes/Reina.jpg - 4 , 5 - 5 , 4
+Rey - src/Imagenes/Rey.jpg - 2 , 3 - 3 , 2
